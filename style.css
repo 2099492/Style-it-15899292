@@ -1,0 +1,74 @@
+h1	{
+	color: white
+}
+
+h2	{
+
+	color: green
+}
+h2 {
+	font-size: xx-large;
+}
+}
+p {
+	color: green
+}
+/* All <a> elements. */
+a {
+	font-size: xx-large;
+}
+a {
+	color: green
+}
+/* All <li> elements. */
+li {
+	color: green
+}
+li	{
+	font-size: xx-large;
+}
+body {
+	background-color: white
+}
+img	{
+	width: 200px
+}
+input	{
+	width: 300px
+}
+input	{
+	border-radius: 5px
+}
+
+textarea {
+	border-color:  red;
+}
+
+textarea:focus {
+	border-color: green;
+}
+textarea	{
+	border-radius: 5px
+}
+
+input[type=text] {
+	height: 90px
+}
+input[type=time] {
+	height: 90px
+}
+input[type=text] {
+  width: 110px
+}
+input[type=time]{
+	width: 90px
+}
+td {
+	border-style: inset;
+}
+td {
+	box-sizing: border-box;
+}
+td {
+	box-sizing: 90px
+}
